@@ -1,6 +1,6 @@
-Brian Schor 
-John Healy
-Masiur Abik
+Brian Schor, 
+John Healy,
+Masiur Abik,
 Eric Kropf
 
 # 311 Service Requests from 2010 to Present | NYC Open Data
