@@ -1,4 +1,3 @@
-Project 5  NYC Hackathon 4/29/19 DSI-7  
 Brian Schor 
 John Healy
 Masiur Abik
